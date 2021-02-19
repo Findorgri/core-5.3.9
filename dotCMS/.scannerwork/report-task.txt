@@ -1,0 +1,7 @@
+organization=findorgri
+projectKey=Findorgri_core-5.3.9
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.17424
+dashboardUrl=https://sonarcloud.io/dashboard?id=Findorgri_core-5.3.9
+ceTaskId=AXe53mCzQGNgx4AiIbMH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXe53mCzQGNgx4AiIbMH
